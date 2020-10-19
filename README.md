@@ -33,7 +33,7 @@ For more details, please read the PDF report.
 
 ## Lab 2 - Reinforcement Learning
 
-In this lab experiement, I implemented a reinforcement learning algorithm called Q-Learning Algorithm in Python to solve the problem of treasure hunting in a cube in a grid-world-based environment.
+In this lab experiment, I implemented a reinforcement learning algorithm called Q-Learning Algorithm in Python to solve the problem of treasure hunting in a cube in a grid-world-based environment.
 
 ![CZ3005-Lab2-Reinforcement-Learning](https://res.cloudinary.com/shernaliu/image/upload/v1603092633/github-never-delete/cz3005-ai-lab2.png)
 
