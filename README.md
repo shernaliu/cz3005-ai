@@ -16,17 +16,18 @@ For each of the following, give a graph that is a tree (there is at most one arc
 * Give a graph where A* search is more efficient than either DFS or BFS.
 
 * Give a graph where DFS and BFS are both more efficient than A* search.
-### Question Two [45 marks]
+
+### Question Two
 
 Progress is made in science by observing a phenomenon of interest, making hypotheses and testing the hypothesis either empirically or by proving theorems.
 
 For this question you are to think about the effect of heuristic accuracy on A* search. That is, you are to experiment with, and think about how close h(n) is to the actual distance from node n to a goal affects the efficiency and accuracy of A*. To get full marks you must at least invent one (plausible, nontrivial) conjecture and either prove it and show some empirical evidence for your answer or show that it is false. Your answers need to be precise (e.g., don’t say “it works better”, but say something like “it always works better”, “it sometimes works better” or “it works better in a majority of cases”).
 
-* What is the effect of reducing h(n) when h(n) is already an underestimate? [15 marks]
+* What is the effect of reducing h(n) when h(n) is already an underestimate?
 
-* How does A* perform when h(n) is the exact distance from n to a goal? [15 marks]
+* How does A* perform when h(n) is the exact distance from n to a goal?
 
-* What happens if h(n) is not an underestimate? You can give an example to justify your answer. [15 marks]
+* What happens if h(n) is not an underestimate? You can give an example to justify your answer.
 
 For more details, please read the PDF report.
 
