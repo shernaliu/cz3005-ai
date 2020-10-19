@@ -1,0 +1,7 @@
+https://www.cs.ubc.ca/~poole/cs502/2006/as1/as1sol.html#:~:text=Solution%3A-,What%20is%20the%20effect%20of%20reducing%20h(n)%20when%20h,no%20fewer%20nodes%20are%20expanded
+
+https://www.studocu.com/sg/document/the-university-of-british-columbia/introduction-to-artificial-intelligence/mandatory-assignments/cpsc322-2018-s1-assignment-1-solution/7388476/view
+
+https://intellipaat.com/community/2363/a-heuristic-overestimation-underestimation#:~:text=If%20H(N)%20is%20an,path%20will%20then%20be%20overlooked
+
+https://en.wikipedia.org/wiki/Admissible_heuristic
