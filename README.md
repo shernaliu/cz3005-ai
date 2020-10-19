@@ -5,18 +5,17 @@
 
 In this lab experiment, I used the [AIspace applet](http://www.aispace.org/search/) to draw the trees to answer the following questions:
 
-### Question One [55 marks]
+### Question One
 
 For each of the following, give a graph that is a tree (there is at most one arc into any node), contains at most 15 nodes, and has at most two arcs out of any node.
 
-* Give a graph where depth-first search (DFS) is much more efficient (expands fewer nodes) than breadth-first search (BFS). [10 marks]
+* Give a graph where depth-first search (DFS) is much more efficient (expands fewer nodes) than breadth-first search (BFS).
 
-* Give a graph where BFS is much better than DFS. [15 marks]
+* Give a graph where BFS is much better than DFS.
 
-* Give a graph where A* search is more efficient than either DFS or BFS. [15 marks]
+* Give a graph where A* search is more efficient than either DFS or BFS.
 
-* Give a graph where DFS and BFS are both more efficient than A* search. [15 marks]
-
+* Give a graph where DFS and BFS are both more efficient than A* search.
 ### Question Two [45 marks]
 
 Progress is made in science by observing a phenomenon of interest, making hypotheses and testing the hypothesis either empirically or by proving theorems.
