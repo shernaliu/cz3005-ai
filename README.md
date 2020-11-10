@@ -93,3 +93,5 @@ git clone https://github.com/shernaliu/CZ3005-AI.git
 
 To be able to run Lab 2, you need to have Python installed in your system.
 
+To be able to run Lab 3, you need to have SWI-Prolog installed in your system.
+
