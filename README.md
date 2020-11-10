@@ -48,6 +48,40 @@ This is done using the matplotlib library.
 
 ![CZ3005-Lab2-Learning-Progress-Plot](https://res.cloudinary.com/shernaliu/image/upload/v1603092634/github-never-delete/Learning_Progress_Plot.png)
 
+## Lab 3 - Introduction to Prolog
+
+In this lab experiment, I used the [SWI-Prolog]( http://www.swi-prolog.org/) to learn about using Prolog as a logic programming tool.
+
+### Exercise 1: The Smart Phone Rivalry
+
+```
+sumsum, a competitor of appy, developed some nice smart phone technology called galacticas3, all of which was stolen by stevey, who is a boss. It is unethical for a boss to steal business
+from rival companies. A competitor of appy is a rival. Smart phone technology is business.
+```
+* Translate the natural language statements above describing the dealing within the Smart Phone industry in to First Order Logic (FOL).
+
+* Write these FOL statements as Prolog clauses.
+
+* Using Prolog, prove that Stevey is unethical. Show a trace of your proof
+
+### Exercise 2: The Royal Family
+
+``` 
+The old Royal succession rule states that the throne is passed down along the male line according to the order of birth before the consideration along the female line – similarly according to the order of birth. queen elizabeth, the monarch of United Kingdom, has four offsprings; namely:- prince charles, princess ann, prince andrew and prince edward – listed in the order of birth.
+```
+
+* Define their relations and rules in a Prolog rule base. Hence, define the old Royal succession rule. 
+Using this old succession rule determine the line of succession based on the information given. Do a trace to show your results.
+
+
+* Recently, the Royal succession rule has been modified. 
+The throne is now passed down according to the order of birth irrespective of gender. 
+Modify your rules and Prolog knowledge base to handle the new succession rule. 
+Explain the necessary changes to the knowledge needed to represent the new information. 
+Use this new succession rule to determine the new line of succession based on the same knowledge given. 
+Show your results using a trace.
+
+
 For more details, please read the PDF report.
 
 ## Installing CZ3005-AI
