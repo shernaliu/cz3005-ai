@@ -81,8 +81,21 @@ Explain the necessary changes to the knowledge needed to represent the new infor
 Use this new succession rule to determine the new line of succession based on the same knowledge given. 
 Show your results using a trace.
 
+## Lab 4 - Implementing a Talking Box with Prolog
+
+The Prolog script offers different meal options, sandwich options, meat options, salad options,
+sauce options, top-up options, sides options etc. to create a customized list of person’s choice. The
+options should be intelligently selected based on previous choices. For example, if the person chose
+a veggie meal, meat options should not be offered. If a person chose healthy meal, fatty sauces
+should not be offered. If a person chose vegan meal, cheese top-up should not be offered. If a
+person chose value meal, no top-up should be offered.
+
+Screenshot of program:
+
+![CZ3005-Lab4](https://res.cloudinary.com/shernaliu/image/upload/v1606898187/github-never-delete/CZ3005-LAB4.png)
 
 For more details, please read the PDF report.
+
 
 ## Installing CZ3005-AI
 
