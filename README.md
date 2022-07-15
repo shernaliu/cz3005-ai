@@ -1,5 +1,5 @@
 
-# CZ3005 - Artificial Intelligence (ongoing)
+# CZ3005 - Artificial Intelligence
 
 ## Lab 1 - Problem Solving
 
